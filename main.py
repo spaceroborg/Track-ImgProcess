@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from frame_processor import FrameProcessor
 
 if __name__ == "__main__":
-    image_path = "run1_frames10s/frame_0005.png"
+    image_path = "frame_0005.png"
     image = cv2.imread(image_path)
 
     processor = FrameProcessor()
