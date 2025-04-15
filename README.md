@@ -1,3 +1,3 @@
 # Track-ImgProcess
 
-Clone repo and run `main.py`
+Clone repo and run `main.py`.
