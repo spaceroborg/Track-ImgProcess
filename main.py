@@ -121,7 +121,7 @@ class FrameProcessor:
 
 def main():
     """Main execution function."""
-    image_path = 'images/frame_0062.jpg'
+    image_path = 'frame_0005.png'
     image = cv2.imread(image_path)
 
     processor = FrameProcessor()
